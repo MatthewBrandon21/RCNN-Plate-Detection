@@ -1,0 +1,26 @@
+<annotation>
+	<folder>croppedv2</folder>
+	<filename>plate_129.jpg</filename>
+	<path>C:\Users\user\Documents\croppedv2\croppedv2\plate_129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>142</ymin>
+			<xmax>78</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
