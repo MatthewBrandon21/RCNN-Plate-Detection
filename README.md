@@ -1,19 +1,10 @@
 
-# Rock Paper Cissor CNN Detection
+# Plate Detection using RCNN algorithm
 
-This is for dicoding machine learning course assignment.
+RCNN object detection and EasyOCR to make logging of number plate and security sistem for housing area.
 
-Detect rock paper cissor using CNN classification
-## How to run
+- Using Tensorflow & Keras 
 
-Please run on Google Colab or Jupyter Notebook
+Research paper can be found on Deteksi Plat Nomor Kendaraan Indonesia - Matthew Brandon Dani.pdf
 
-If you run locally, install tensorflow and keras on your system
-
-
-## Tech Stack
-
-- Tensorflow
-- Keras
-- loss: 0.0861
-- accuracy: 0.9663
+### If need help, feel free to contact me!
